@@ -2,7 +2,7 @@
 - 👀 I’m interested in Creating experiences using Technology.
 - 🌱 I’m currently learning Web Development and DSA.
 - Also Pursuing Btech from NITRR
-- 💞️ I’m looking to collaborate on GitHub for making websites that serve for a good cause.
+- 💞️ I’m looking to collaborate on GitHub for making websites that serve a good cause.
 - 📫 How to reach me linkedIn: https://www.linkedin.com/in/mokshda-bhatt-7878b5288?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 - 😄 Pronouns: She/Her
 
